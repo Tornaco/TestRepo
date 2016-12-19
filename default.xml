@@ -18,5 +18,5 @@
            sync-c="true"
            sync-j="4" />
 
- <project path="tools/uodater" name="Tornaco/CMUpdater-API" revision="cm-14.0/>
+ <project path="tools/uodater" name="Tornaco/CMUpdater-API" revision="cm-14.0"/>
 </manifest>
